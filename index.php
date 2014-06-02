@@ -12,6 +12,7 @@ session_start("seleciona");
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0a1/jquery.mobile-1.0a1.min.css" />
 	<script src="http://code.jquery.com/jquery-1.4.3.min.js"></script>
 	<script src="http://code.jquery.com/mobile/1.0a1/jquery.mobile-1.0a1.min.js"></script>	
+	<script src="phonegap.js"></script>
 <style type="text/css">
              .ui-page {
                        background: transparent url(images/fundo.gif);
